@@ -1,5 +1,6 @@
 # Training-CustomData-using-YOLOX-ObjectDetection-Model
-[![Goggle Colab](https://img.shields.io/badge/Open%20In-Colab-%2300BFFF.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+[![Open In Colab](https://img.shields.io/badge/Open%20In-Colab-%2300BFFF.svg?style=for-the-badge&logo=google-colab&logoColor=white)]([https://colab.research.google.com/](https://colab.research.google.com/drive/1IrYQq84zOURbToDjxEOfl8bYYX2Mc1NY?usp=sharing))
+
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
